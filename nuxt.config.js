@@ -37,15 +37,8 @@ export default {
     '@nuxtjs/pwa'
   ],
 
-  primevue: {
-    theme: 'saga-blue',
-    ripple: true,
-    components: ['InputText','Button', 'Toast'],
-  },
-
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    'primevue/nuxt'
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
